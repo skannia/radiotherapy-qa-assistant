@@ -1,0 +1,4 @@
+output,flatness,symmetry,dose_uniformity,beam_energy,electron_output,PDD,planned_vs_measured,gamma_index
+100,100,100,100,6.0,100,100,100,98
+98,102,101,101,6.2,102,99,97,96
+102,97,98,98,5.8,97,101,102,94
